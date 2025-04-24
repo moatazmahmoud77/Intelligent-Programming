@@ -2,6 +2,7 @@
 This project is a content-based movie recommender system built using the MovieLens 100K dataset. It helps users discover movies that are similar in content and genre to a movie they already like.
 
 📌 Features
+
 🧹 Data Cleaning:
 
 Extract movie titles, genres, and release years from the raw MovieLens data.
